@@ -1,0 +1,5 @@
+Why isn't geographical information included in the API?
+Add support search issues by city
+Add support search issues by state
+Add support search issues by postal code
+
